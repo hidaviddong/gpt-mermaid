@@ -2,7 +2,10 @@
 
 优雅的高颜值 Mermaid 图表工作台，基于 **Next.js + Tailwind CSS** 构建。
 
-项目完全复刻了 **ChatGPT 官方桌面客户端** 的 Mermaid 渲染实现方案：
+🌐 **在线体验**：[https://gpt-mermaid.vercel.app](https://gpt-mermaid.vercel.app)  
+📦 **GitHub 开源仓库**：[https://github.com/hidaviddong/gpt-mermaid](https://github.com/hidaviddong/gpt-mermaid)
+
+---
 1. **ELK 工业级布局**（`@mermaid-js/layout-elk` 代替默认 Dagre 引擎）：节点规整、连线横平竖直、不拥挤。
 2. **ChatGPT 视觉规范**：
    - 节点统一 `rx: 15px, ry: 15px` 现代大圆角胶囊矩形；
